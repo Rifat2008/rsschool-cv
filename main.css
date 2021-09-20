@@ -1,0 +1,85 @@
+.img-rs-school {
+    width: 100px;
+}
+
+.container {
+    width: 1000px;
+    margin: 0 auto;
+    font: 14px Verdana, sens-serif;
+    background: #ecebeb;
+}
+
+a {
+    color: #000000;
+    text-decoration: none;
+}
+
+p, ul {
+    letter-spacing: 0.03em;
+    line-height: 1.55em; 
+    margin: 0;
+}
+
+header {
+    margin-top: 50px;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.img-portrait {
+    display: inline-block;
+    
+}
+
+.name {
+    display: inline-block;
+    width: 700px;
+    height: 200px;
+    background: lightblue;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+h1 {
+    margin: 0 auto;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h3 {
+   margin-top: 0;
+}
+
+
+.portrait {
+    width: 350px;
+}
+
+section {
+    border-bottom: 1px solid silver;
+    margin-top: 20px;
+    padding: 15px;
+}
+
+.info {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background: #979797;;
+}
+
+.icon-github {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.git-name {
+    margin-left: 5px;
+}
